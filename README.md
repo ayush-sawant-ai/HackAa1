@@ -121,15 +121,7 @@ json
   "api_key": "your-api-key",
   "query": "Who is the CEO of Google?"
 }
-Contributing
-Fork the repo and create a new branch for your feature or fix.
-
-Submit a pull request with a clear description.
-
 Please follow the code style and add tests where possible.
-
-License
-Specify your project’s license here (e.g., MIT, Apache 2.0).
 
 Contact
 Maintainer: Your Name (ayushsawanta@gmail.com)
